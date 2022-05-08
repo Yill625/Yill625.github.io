@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[4],{376:function(t,n,s){},405:function(t,n,s){"use strict";s(376)},587:function(t,n,s){"use strict";s.r(n);s(405);var e=s(58),i=Object(e.a)({},(function(){var t=this.$createElement;return(this._self._c||t)("span",{staticClass:"title"},[this._v(" 时间从来不语，却回答了所有问题 ")])}),[],!1,null,null,null);n.default=i.exports}}]);
